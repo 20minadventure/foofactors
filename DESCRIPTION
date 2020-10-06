@@ -1,5 +1,5 @@
 Package: foofactors
-Title: What the Package Does (One Line, Title Case)
+Title: Bind Two Factors into One
 Version: 0.0.0.9000
 Authors@R: 
     person(given = "Jacek",
