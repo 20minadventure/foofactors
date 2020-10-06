@@ -6,7 +6,7 @@ Authors@R:
            family = "Hajto",
            role = c("aut", "cre"),
            email = "jacek@hajto.dev")
-Description: What the package does (one paragraph).
+Description: The package makes working with factors much easier.
 License: `use_mit_license()`, `use_gpl3_license()` or friends to
     pick a license
 Encoding: UTF-8
